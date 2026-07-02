@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DriverTest</string>
+    <string name="tab_learn">学习</string>
+    <string name="tab_add">添加</string>
+    <string name="tab_stats">统计</string>
+    <string name="not_familiar">不熟悉</string>
+    <string name="unclear">模糊</string>
+    <string name="mastered">掌握</string>
+    <string name="text_input">文本输入</string>
+    <string name="photo_ocr">拍照识别</string>
+    <string name="ai_search">AI搜索</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="title_hint">输入标题</string>
+    <string name="content_hint">输入内容</string>
+    <string name="search_hint">输入主题关键词，AI将为你生成知识卡片</string>
+    <string name="total_cards">总卡片</string>
+    <string name="mastery_rate">掌握率</string>
+    <string name="today_review">今日复习</string>
+    <string name="streak_days">连续天数</string>
+    <string name="daily_progress">每日学习进度</string>
+    <string name="card_details">卡片详情</string>
+    <string name="no_cards">暂无知识卡片</string>
+    <string name="no_cards_hint">去添加页面创建你的第一张知识卡片吧!</string>
+    <string name="all_reviewed">今日复习完成!</string>
+    <string name="all_reviewed_hint">所有卡片已复习完毕，明天再来吧</string>
+    <string name="take_photo">拍照</string>
+    <string name="pick_gallery">从相册选择</string>
+    <string name="ai_generating">AI正在生成知识卡片…</string>
+    <string name="save_selected">保存选中 (%d)</string>
+    <string name="review_count">复习次数: %d</string>
+    <string name="loading">加载中…</string>
+    <string name="error_occurred">发生错误</string>
+    <string name="network_error">网络连接失败，请检查网络设置</string>
+</resources>
