@@ -116,9 +116,7 @@ app/src/main/java/com/drivertest/app/
 
 ## 📦 APK 下载
 
-> 🔗 **最新 APK 安装包请到 [GitHub Releases](https://github.com/cwh1234/driver_app/releases) 页面下载。**
-
-前往 [Releases](https://github.com/cwh1234/driver_app/releases) 页面，下载最新版本的 `app-release.apk` 或 `app-debug.apk`，直接在 Android 设备上安装使用。
+前往.\app\build\outputs\apk\debug，下载.apk文件，可以直接在 Android 设备上安装使用。
 
 ## 🤝 贡献
 
